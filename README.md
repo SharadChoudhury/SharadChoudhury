@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sharadia
+- 👋 Hi, I’m Sharad
 - 👀 I’m driven to solve real world problems primarily in Healthcare using Technology. I am primarily interested in Problem Solving.
 - 💞️ I’m looking to collaborate on Deep learning realtime projects
 - 📫 Reach me via https://www.linkedin.com/in/sharadia-choudhury-he-him-b065b1168/
