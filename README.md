@@ -8,13 +8,14 @@ About Me:
 From exploratory data analysis to predictive modeling, I am well-versed in using a wide range of tools and programming languages such as:
 1. Python
 2. SQL
-3. PowerBI
-4. Azure Data Factory
-5. Git
-6. Grafana
-7. InfluxDB
-8. Docker
-9. Linux
+3. Java
+4. PowerBI
+5. Azure Data Factory
+6. Git
+7. Grafana
+8. InfluxDB
+9. Docker
+10. Linux
 
 🌱 I believe in the power of continuous learning and stay updated with the latest advancements in the data science landscape.
 
