@@ -10,12 +10,13 @@ From exploratory data analysis to predictive modeling, I am well-versed in using
 2. SQL
 3. Java
 4. PowerBI
-5. Azure Data Factory
-6. Git
-7. Grafana
-8. InfluxDB
-9. Docker
-10. Linux
+5. AWS
+6. Azure Data Factory
+7. Git
+8. Grafana
+9. InfluxDB
+10. Docker
+11. Linux
 
 🌱 I believe in the power of continuous learning and stay updated with the latest advancements in the data science landscape.
 
