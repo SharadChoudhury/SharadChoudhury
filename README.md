@@ -13,10 +13,11 @@ From exploratory data analysis to predictive modeling, I am well-versed in using
 5. AWS
 6. Azure Data Factory
 7. Git
-8. Grafana
-9. InfluxDB
-10. Docker
-11. Linux
+8. Hadoop
+9. Grafana
+10. InfluxDB
+11. Docker
+12. Linux
 
 🌱 I believe in the power of continuous learning and stay updated with the latest advancements in the data science landscape.
 
