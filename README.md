@@ -12,12 +12,14 @@ From exploratory data analysis to predictive modeling, I am well-versed in using
 4. PowerBI
 5. AWS
 6. Azure Data Factory
-7. Git
-8. Hadoop
-9. Grafana
-10. InfluxDB
-11. Docker
-12. Linux
+7. Hadoop and Mapreduce
+8. HBase
+9. Sqoop
+10. Flume
+11. Grafana
+12. InfluxDB
+13. Docker
+14. Linux
 
 🌟 If you are looking for a data engineer who combines strong technical skills, a passion for problem-solving, and a collaborative mindset, I'd love to connect and explore potential opportunities. 
 Feel free to reach out via https://www.linkedin.com/in/sharadchoudhury27/.
