@@ -8,9 +8,9 @@ About Me:
 From exploratory data analysis to predictive modeling, I am well-versed in using a wide range of tools and programming languages such as:
 1. Python
 2. SQL
-3. Java
+3. PySpark
 4. PowerBI
-5. AWS
+5. AWS - EMR, RDS, S3, REDSHIFT
 6. Azure Data Factory
 7. Hadoop Ecosystem- HDFS, MapReduce, HBase, Sqoop, Flume, Hive
 8. Grafana
