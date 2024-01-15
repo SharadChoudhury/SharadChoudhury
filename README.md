@@ -9,9 +9,9 @@ From exploratory data analysis to predictive modeling, I am well-versed in using
 1. Python
 2. SQL
 3. PySpark
-4. PowerBI
+4. Kafka
 5. AWS - EMR, RDS, S3, REDSHIFT
-6. Azure Data Factory
+6. Airflow
 7. Hadoop Ecosystem- HDFS, MapReduce, HBase, Sqoop, Flume, Hive
 8. Grafana
 9. InfluxDB
