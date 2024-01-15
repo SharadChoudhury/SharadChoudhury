@@ -1,11 +1,7 @@
 About Me:
 
-👋 Hi there! I'm Sharad, a Data Engineer passionate about leveraging data-driven insights to solve complex problems and drive meaningful impact. 
-
-💼 With 2 years of experience in the Software Engineering field, I have developed a strong foundation in various domains, including machine learning, data engineering, cloud computing. 
-
-🔬 My expertise lies in applying advanced analytical techniques to extract valuable insights from large datasets, transforming them into actionable recommendations. 
-From exploratory data analysis to predictive modeling, I am well-versed in using a wide range of tools and programming languages such as:
+👋 Hi there! I'm Sharad, a Data Engineer passionate about leveraging data-driven insights to solve complex problems and drive meaningful impact.  
+I am well-versed in using a wide range of tools and programming languages such as:
 1. Python
 2. SQL
 3. PySpark
