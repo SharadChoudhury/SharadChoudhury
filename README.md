@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Senior Data Analytics Engineer at ANZ specializing in building robust data transformation pipelines and scalable ETL processes. <br>My expertise lies in the AWS and Hadoop ecosystems , where I leverage PySpark, SQL, Python, Hive to drive data-driven solutions.<br><br>Core Tech: Python, SQL, PySpark, Kafka, Airflow and AWS (S3, Redshift, EMR).<br><br>I am currently exploring on:<br>GenAI & ML: Exploring RAG, LangChain, and Prompt Engineering to enhance data workflows.
+I am a Senior Data Analytics Engineer at ANZ specializing in building robust data transformation pipelines and scalable ETL processes. <br>My expertise lies in the AWS and Hadoop ecosystems, where I leverage PySpark, SQL, Python, Hive to drive data-driven optimized solutions.<br><br>Core Tech: Python, SQL, PySpark, Kafka, Airflow and AWS (S3, Redshift, EMR).<br><br>I am currently exploring on:<br>GenAI & ML: Exploring RAG, LangChain, and Prompt Engineering to enhance data workflows.
 
 
 # 💻 Tech Stack:
